@@ -22,7 +22,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Screenshot
 
 <img src="images/desktop-design.png" width="500">
-<img src="images/mobile-design.png" width="500" height="600">
+<img src="images/mobile-design.png" width="400" height="600">
 
 ## Links
 
