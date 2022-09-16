@@ -1,0 +1,8 @@
+*.sketch
+*.xd
+*.fig
+.DS_Store
+.vscode
+.prettierignore
+README-template.md
+style-guide.md
