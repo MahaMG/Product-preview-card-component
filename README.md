@@ -26,7 +26,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-<!-- - Live Site URL: [Here]() -->
+- Live Site URL: [Here](https://mahamg.github.io/Product-preview-card-component/)
 
 ## My process
 
